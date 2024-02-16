@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 15px;
+}
+
+.task-card-container {
+  display: flex;
+  align-items: center;
+}
+
+.task-name {
+  font-weight: bold;
+  color: #1e3a8a;
+  font-size: 20px;
+}
+
+.task-image {
+  width: 150px;
+}
